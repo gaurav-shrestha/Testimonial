@@ -662,6 +662,14 @@ video {
   line-height: 1.75rem;
 }
 
+.font-semibold {
+  font-weight: 600;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
@@ -673,6 +681,18 @@ video {
 
 .opacity-90 {
   opacity: 0.9;
+}
+
+.opacity-20 {
+  opacity: 0.2;
+}
+
+.opacity-40 {
+  opacity: 0.4;
+}
+
+.opacity-100 {
+  opacity: 1;
 }
 
 .ring-2 {
